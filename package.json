@@ -1,0 +1,15 @@
+{
+  "name": "rea-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "acorn": "^8.19.0",
+    "rea-agents": "^6.9.0"
+  }
+}
