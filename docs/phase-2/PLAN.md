@@ -30,3 +30,10 @@ Order of work: W1, W3, W4, W5, W6, W2, W7. W2 comes late because it needs a free
 ## Done when
 
 Seven notes are written, the synthesis is reviewed, the recommendation for build phase 0 is agreed, and the audit log is complete.
+
+## Update 3: extension v1 modes (decision: both)
+
+- Mode A (on by default): acts on text the user selects or pastes, and on email and CRM pages with permission.
+- Mode B, LinkedIn page assist (off by default, per region, enabled only after counsel clears it): on click only, reads the visible name, headline and company of the profile the user is viewing, and sends only those fields for one lookup.
+- Mode B never intercepts platform responses, reads session cookies, runs in the background, works in bulk or keeps page content. Remote switch and a per-user daily cap apply.
+- Audit entries keep a minimal subject reference (provider record ID or salted hash), never page content, with a retention limit.

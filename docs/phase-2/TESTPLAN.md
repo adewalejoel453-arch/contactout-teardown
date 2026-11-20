@@ -13,3 +13,11 @@
 | Gate | Go-live decision | Review of T0 to T5 results with the lawyer's sign-off | All stages passed and signed off |
 
 Results for each stage are written to `docs/phase-2/test-results/`. A failed stage blocks the next one.
+
+## Update 3: extension tests (stages T1 and T4)
+
+- Manifest audit: the build fails if the extension requests the cookies permission or broad host access at install.
+- Mode B makes no network call, and reads nothing from the page, without a user click.
+- Only whitelisted fields (name, headline, company) are ever sent from a LinkedIn page.
+- The remote switch and the per-user daily cap disable mode B as expected.
+- Audit entries contain no page content and expire on schedule.
