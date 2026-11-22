@@ -59,3 +59,23 @@
 ## 17. Open items
 
 - Read both directories' policies on products that return personal data about individuals.
+
+## 18. Claude directory policy check for a personal-data product (Reported; confirm against the live text)
+
+- The directory policy's unsupported list does not name contact-data connectors: autonomous money transfers without safeguards, AI-generated media, advertising, adult content and circumvention of safeguards.
+- Required: no violation of the Usage Policy; priority to third-party privacy; collect only necessary data and no extraneous conversation data, even for logging; no persistent storage of conversation content; a privacy policy; verified contact and support; documentation; a testing account with sample data; at least three example prompts; exact tool descriptions, names of at most 64 characters, annotations, OAuth 2.0, token-frugal responses; notice of material data-practice changes.
+- Usage Policy points: privacy rights under applicable law; aggregating personal data from multiple sources into profiles for sale or disclosure without awareness (qualified); tracking without consent; human in the loop and AI disclosure where livelihood is affected.
+- The Usage Policy took effect on 12 November 2026; wording differs between versions on the site.
+
+## 19. Resulting rules (proposal)
+
+- No scoring, ranking or fit prediction of people in version 1.
+- Sample data is obviously fictional; no real people.
+- Audit entries and logs never contain conversation content or prompt text.
+- In-chat credit purchases need a human confirmation.
+- Provider results stay separate; no merging of several providers into new stored profiles.
+- Ask Anthropic in writing whether a licensed contact-data connector with these safeguards is acceptable.
+
+## 20. Open items
+
+- OpenAI's policy for ChatGPT apps that return personal data about individuals.

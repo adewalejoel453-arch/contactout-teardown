@@ -30,3 +30,10 @@ Tests: where personal emails are off, no tool, export or adapter output returns 
 ## Search criteria rule (proposal)
 
 No filters, fields or inferences about protected or special-category characteristics (for example age, gender, ethnicity, religion, health, union membership, sexual orientation, political views). Search criteria are limited to professional attributes.
+
+## Directory-policy rules (proposal)
+
+- No scoring, ranking or fit prediction of people in version 1.
+- Audit entries and logs never contain conversation content or prompt text.
+- Provider results stay separate; no merging of several providers into new stored profiles.
+- Sample data is fictional.

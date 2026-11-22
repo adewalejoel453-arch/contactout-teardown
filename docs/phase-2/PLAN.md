@@ -62,3 +62,7 @@ W8 now covers the Claude and ChatGPT directory requirements (notes 14 to 17). Fi
 - Version 1: one segment-agnostic core and a small generic search schema (name, job title, company, location at city or country level, seniority, industry, company size). Segment filters are added later as data with presets, where the provider has the data.
 - Rule (proposal): no filters, fields or inferences about protected or special-category characteristics; search criteria are limited to professional attributes.
 - Onboarding asks what the user is using the product for. See section 20 of the teardown document.
+
+## Update 9: Claude directory policy check
+
+See section 21 of the teardown document and notes 18 to 20 in w8-mcp.md. New rules (proposal): no scoring, ranking or fit prediction; fictional sample data; no conversation content in logs; human confirmation for in-chat purchases; provider results kept separate. To do: ask Anthropic in writing about a licensed contact-data connector; read OpenAI's policy on personal-data apps.

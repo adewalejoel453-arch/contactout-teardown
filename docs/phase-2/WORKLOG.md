@@ -14,3 +14,5 @@
 11. W8: Lusha MCP documentation read and summarised.
 12. W8: Claude and ChatGPT directory requirements read and summarised; teardown document section 19 added.
 13. Decision: all three segments are first users; filters later. PLAN, DATA-HANDLING, TESTPLAN and teardown document (section 20) updated.
+14. Claude directory policy and Usage Policy read for personal-data products; teardown document section 21 added; rules proposed.
+15. Feature list for version 1 left as a working draft: no preference given when asked.

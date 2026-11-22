@@ -40,3 +40,11 @@ Results for each stage are written to `docs/phase-2/test-results/`. A failed sta
 
 - The search schema accepts only the allowed professional parameters and rejects any others.
 - No schema, filter, field or provider adapter output carries a protected or special-category attribute.
+
+## Update 9: directory-compliance tests (stages T0 and T4)
+
+- Each tool description matches its behaviour; names are at most 64 characters; every tool has a title and read-only or destructive annotation.
+- Logs and audit entries contain no prompt or conversation text (scanned after a run).
+- Sample data contains only fictional people.
+- No tool or schema scores, ranks or predicts fit for a person.
+- In-chat credit purchase requires a human confirmation.
