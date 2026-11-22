@@ -21,3 +21,10 @@ Results for each stage are written to `docs/phase-2/test-results/`. A failed sta
 - Only whitelisted fields (name, headline, company) are ever sent from a LinkedIn page.
 - The remote switch and the per-user daily cap disable mode B as expected.
 - Audit entries contain no page content and expire on schedule.
+
+## Update 6: personal-email tests (stages T1 to T3)
+
+- Where personal emails are off, no tool, export or adapter output returns one.
+- Every returned email carries a work or personal label.
+- Suppression covers both types.
+- Personal-email reveals record the region rule applied in the audit entry.
