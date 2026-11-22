@@ -35,3 +35,8 @@ Results for each stage are written to `docs/phase-2/test-results/`. A failed sta
 - Every returned email carries a work or personal label.
 - Suppression covers both types.
 - Personal-email reveals record the region rule applied in the audit entry.
+
+## Update 8: search tests (stages T0 and T1)
+
+- The search schema accepts only the allowed professional parameters and rejects any others.
+- No schema, filter, field or provider adapter output carries a protected or special-category attribute.

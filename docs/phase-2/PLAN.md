@@ -55,3 +55,10 @@ Seven notes are written, the synthesis is reviewed, the recommendation for build
 ## Update 7: directory requirements
 
 W8 now covers the Claude and ChatGPT directory requirements (notes 14 to 17). First task next: read both directories' policies on products that return personal data about individuals. See section 19 of the teardown document.
+
+## Update 8: first users and search filters
+
+- Decision: the first users are all of recruiters, sales and revenue teams, and founders and small teams. Search filters come later in implementation.
+- Version 1: one segment-agnostic core and a small generic search schema (name, job title, company, location at city or country level, seniority, industry, company size). Segment filters are added later as data with presets, where the provider has the data.
+- Rule (proposal): no filters, fields or inferences about protected or special-category characteristics; search criteria are limited to professional attributes.
+- Onboarding asks what the user is using the product for. See section 20 of the teardown document.

@@ -26,3 +26,7 @@ Provider checks: documented source and lawful basis for personal emails; suppres
 Guardrails: label every email; acceptable-use rule against bulk unsolicited outreach to personal emails; personal emails left out of exports where off; suppression applies to both types; the audit entry records the region rule applied.
 
 Tests: where personal emails are off, no tool, export or adapter output returns one; every email carries a label; suppression covers both types.
+
+## Search criteria rule (proposal)
+
+No filters, fields or inferences about protected or special-category characteristics (for example age, gender, ethnicity, religion, health, union membership, sexual orientation, political views). Search criteria are limited to professional attributes.

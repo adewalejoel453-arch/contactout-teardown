@@ -13,3 +13,4 @@
 10. Decision: work and personal emails, personal switched per region and off until cleared. DATA-HANDLING, PLAN, TESTPLAN and teardown document (sections 17 and 18) updated.
 11. W8: Lusha MCP documentation read and summarised.
 12. W8: Claude and ChatGPT directory requirements read and summarised; teardown document section 19 added.
+13. Decision: all three segments are first users; filters later. PLAN, DATA-HANDLING, TESTPLAN and teardown document (section 20) updated.
