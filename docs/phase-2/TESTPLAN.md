@@ -28,3 +28,10 @@ Results for each stage are written to `docs/phase-2/test-results/`. A failed sta
 - Every returned email carries a work or personal label.
 - Suppression covers both types.
 - Personal-email reveals record the region rule applied in the audit entry.
+
+## Update 6: personal-email tests (stages T1 to T3)
+
+- Where personal emails are off, no tool, export or adapter output returns one.
+- Every returned email carries a work or personal label.
+- Suppression covers both types.
+- Personal-email reveals record the region rule applied in the audit entry.

@@ -44,3 +44,10 @@ Seven notes are written, the synthesis is reviewed, the recommendation for build
 - W4: a provider must document the source and lawful basis for personal emails, cover suppression and opt-outs, and allow passing them on; expect a shorter list.
 - W5: the region matrix records, per region, whether personal emails may be returned and the rules on emailing individuals versus businesses.
 - W8: Lusha MCP read; directory submission requirements next.
+
+## Update 6: personal emails and Lusha MCP
+
+- Decision: work and personal emails are both offered; personal emails switched per region and off everywhere until cleared. See DATA-HANDLING.md and section 18 of the teardown document.
+- W4: a provider must document the source and lawful basis for personal emails, cover suppression and opt-outs, and allow passing them on; expect a shorter list.
+- W5: the region matrix records, per region, whether personal emails may be returned and the rules on emailing individuals versus businesses.
+- W8: Lusha MCP read; directory submission requirements next.

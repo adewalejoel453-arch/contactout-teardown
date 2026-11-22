@@ -10,3 +10,5 @@
 6. Extension v1 decision recorded: both modes; mode B off by default until counsel clears it. Plan, test plan and teardown document updated.
 10. Decision: work and personal emails, personal switched per region and off until cleared. DATA-HANDLING, PLAN, TESTPLAN and teardown document (sections 17 and 18) updated.
 11. W8: Lusha MCP documentation read and summarised.
+10. Decision: work and personal emails, personal switched per region and off until cleared. DATA-HANDLING, PLAN, TESTPLAN and teardown document (sections 17 and 18) updated.
+11. W8: Lusha MCP documentation read and summarised.
