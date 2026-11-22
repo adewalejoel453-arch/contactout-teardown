@@ -51,3 +51,7 @@ Seven notes are written, the synthesis is reviewed, the recommendation for build
 - W4: a provider must document the source and lawful basis for personal emails, cover suppression and opt-outs, and allow passing them on; expect a shorter list.
 - W5: the region matrix records, per region, whether personal emails may be returned and the rules on emailing individuals versus businesses.
 - W8: Lusha MCP read; directory submission requirements next.
+
+## Update 7: directory requirements
+
+W8 now covers the Claude and ChatGPT directory requirements (notes 14 to 17). First task next: read both directories' policies on products that return personal data about individuals. See section 19 of the teardown document.
